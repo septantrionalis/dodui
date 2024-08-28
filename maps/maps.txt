@@ -1,0 +1,12 @@
+Northbridge=northbridge
+Northbridge Sewers=nbsewers
+Shorehollow=shorehollow
+Cormill=cormill
+Eastmoor=eastmoor
+Lightmaple=lightmaple
+Pondley=pondley
+Janhall=janhall
+Snowfog=snowfog
+Deepview=deepview
+Floweredge=floweredge
+Clearview=clearview

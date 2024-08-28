@@ -1,0 +1,212 @@
+http://www.piskelapp.com/
+https://www.upwork.com/o/profiles/browse/?q=2d-pixel-artist
+https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%2525255B%2525255D=9&sort_by=count&sort_order=DESC
+https://www.freesound.org/people/LittleRobotSoundFactory/sounds/270419/
+http://soundimage.org/
+https://www.soundjay.com/button-sounds-2.html
+http://www.vgmpf.com/Wiki/index.php/I_Hear_You_Crying
+http://www.zamzar.com/convert/ogg-to-mp3/
+
+TODO:
+  implement time and darkness
+
+Right click attributes:
+General:
+  Default Tile (Button to Apply)
+  <[]>
+
+Selected x,y
+Selected Tile:
+  [x] Impassable
+  [x] NPC Impassable
+  [EDIT] Door: 10 
+  Teleport : 
+    [EDIT] Coord: X,Y
+    [EDIT] Map: map name
+    
+    
+  [DELETE]
+ 
+--CLASS STATS-- 
+Classes:
+	Cleric
+	   PR=Wisdom
+       Minimum Score=None
+	   HD=1D6
+	   Armor=Any+Shield
+	   Weapon=Blunt Only
+	   Shield=Yes
+	   Turn Undead=1/Level?
+	   Cleric Spells
+	   Languages=common, alignment tongue
+	Fighter
+       PR=Strength
+       Minimum Score=None
+       HD=1D8
+       Armor=Any
+       Weapon=Any
+       Shield=Yes	   
+       Languages=common, alignment tongue
+	Thief
+	   PR=Dexterity
+       Minimum Score=None
+       HD=1D4
+       Armor=leather
+       Weapon=any missile and 1 handed weapons
+       Shield=no
+       Languages=common, alignment tongue
+    Magic User
+       PR=Intelligence
+       Minimum Score=None
+       HD=1D4
+       Armor=none
+       Weapon=dagger
+       Shield=No
+       Magic-User spells
+       Languages=common, alignment tongue
+	Elf
+	   PR=Str+Int
+	   Minimum Score=9 Int
+       HD=1D6
+       Armor=any
+       Weapon=any
+       Shield=any
+       Magic-User spells
+       Languages=common, alignment tongue, elf, gnoll, hobgoblin, orc
+       Infravision 60' (see heat)
+       Racial Abilities
+	Halfling
+	   PR=Str+Dex
+       Minimum Score=9 Con, Dex 9   
+       HD=1D6
+       Armor=any
+       Weapon=small sized weapons.  no two handed weapons, long bows, battles axe, pole arms or large weapons
+       Shield=yes
+       Racial Abilities
+	Dwarf
+	   PR=Str
+       Minimum Score=9 Con
+       HD=1D8
+       Armor=Any
+       Weapon=any of small or normal size.  cannot use two handed sword or longbow
+       Shield=yes
+       Languages=common, alignment tongue, dwarf, gnome, goblin, kobold
+       Infravision 60' (see heat)
+       Racial Abilities
+
+--PLAYER STATS--
+Class
+Title
+Level
+Ability Scores
+    Strength        bonus to melee hit roll and damage done
+    Intelligence
+    Wisdom          affects saving throw vs magic spells
+    Dexterity       bonus to ac, bonus to missile hit roll
+    Constitution    bonus to hp
+    Charisma        talking to people.
+
+Saving Throws
+    Death Ray or Poison
+    Magic Wands
+    Paralysis or Turn to Stone
+    Dragon Breath
+    Rods, Staves, or Spells
+    
+Experience Points
+HP
+Gold
+Equipment
+AC (dex affects AC)
+Hit Roll (str affects HR)
+Name
+Alignment (law, chaos, neutrality)
+Thief Abilities
+    Open Locks
+    Find Traps
+    Remove Traps
+    Climb Walls
+    Move Silently
+    Hide in Shadows
+    Pick Pockets
+    Hear Noise
+Racial Abilities
+    Detect Trap  (dwarf)
+    Hidden Doors (dwarf, elf)
+    Immune to Ghoul Paralysis (elf)
+    Hide (halfling)
+    -2 AC against creatures larger than man sized (halfling)
+    +1 Hit Roll when using missile weapons (halfling)
+    +1 Bonus to Initiative (halfling)
+Languages (int 3-8 only knows common.  9-12 knows common and alignment tongue.  13+ bonus is number of additional languages)
+Infravision t/f (see heat)
+
+---NEW CHARACTER STEPS---
+*1) Roll for Ability Scores
+    3D6
+*2) Choose a class
+*3) Exchange Ability Score Points
+   -Your PR only goes up 1 point for 2 that another ability score goes down.
+   -Con and Cha cannot be exchanged.											DONE	REDONE
+   -Dex cannot be lowered, but can be raised if thief or halfling				DONE	REDONE
+   -No score can be lower than 9.  If it is 10 or less, it cannot be lowered.	DONE	REDONE
+   -Ability Scores can't be higher than 18.
+4) Roll for HP
+    Roll hit dice, add constitution.
+5) Roll for Money(gp = 3d6X10)
+6) Buy Equipment
+7) Figure out AC, Hit Roll, Saving Throws
+8) Note adjustments for ability scores
+9) Give your character a name and alignment.
+
+--EQUIPMENT--
+
+Weapon:                     Cost
+Battle Axe (two handed)     7
+Hand Axe                    4
+Light Crossbow              30
+  30 quarrels               10
+Long Bow                    40
+Short Bow                   25
+  20 arrows                 5
+  1 silver tipped arrow     5
+Normal Dagger               3
+Silver Dagger               30
+Short Sword                 7
+Normal Sword                10
+Two-Handed Sword            15
+*Mace                       5
+*Club                       3
+Pole Arm (two-handed)       7
+*Sling w/ 30 slong stones   2
+Spear                       3
+*War Hammer                 5
+* can be used by clerics
+
+Armor:
+Leather Armor               20 
+Chain Mail Armor            40
+Plate Mail Armor            60
+Shield                      10
+
+Equipment
+Backpack                    5
+Flask of Oil                2
+Holy Symbol                 25
+Holy Water (1 vial)         25
+Lantern                     10
+Steel Hand Mirror           5
+10 wooden pole              1
+Iron Ration                 15
+Standard Ration             5
+50' Rope                    1
+Small Sack                  1
+Large Sack                  2
+Iron Spike and Hammer       3
+Thieves Tools               25
+Tinder Box                  3
+6 Torches                   1
+Waterskin                   1
+Wine                        1
+Wolfsbane                   10
+
